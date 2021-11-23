@@ -1,6 +1,6 @@
 # TransportesX
 
-Primer trabajo integrador de la "Diplomatura enprogramación web fullstack con React JS"
+Primer trabajo integrador de la "Diplomatura en programación web fullstack con React JS"
 
 ## Tecnologías
 HTLM, CSS, JAVASCRIPT
