@@ -1,6 +1,7 @@
 # TransportesX
 
-Primer trabajo integrador de la "Diplomatura en programación web fullstack con React JS"
+Primer trabajo integrador de la "Diplomatura en programación web fullstack con React JS" solo con HTML y CSS.
 
-## Tecnologías
-HTLM, CSS, JAVASCRIPT
+## Autor
+
+[Cristian Diego Góngora Pabón](https://www.linkedin.com/in/cristiangongora/)
