@@ -4,7 +4,7 @@ Primer trabajo integrador de la "Diplomatura en programación web fullstack con 
 
 ## Web en linea
 
-[Transporte X subida en Heroku](https://transportex-utn.herokuapp.com/)
+[Transporte X subida en GitHub Pages](https://eudemonologia.github.io/TransportesX-Maquetacion/)
 
 ## Autor
 
